@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e33.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/e33.py">
+      <file leaf-file-name="e34.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/e34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            <state relative-caret-position="323">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/e31.py" />
         <option value="$PROJECT_DIR$/e32.py" />
         <option value="$PROJECT_DIR$/e33.py" />
+        <option value="$PROJECT_DIR$/e34.py" />
       </list>
     </option>
   </component>
@@ -136,25 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.e33">
-    <configuration name="e29" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e29.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.e34">
     <configuration name="e30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,20 +210,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="e34" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e34.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.e29" />
-      <item index="1" class="java.lang.String" itemvalue="Python.e30" />
-      <item index="2" class="java.lang.String" itemvalue="Python.e31" />
-      <item index="3" class="java.lang.String" itemvalue="Python.e32" />
-      <item index="4" class="java.lang.String" itemvalue="Python.e33" />
+      <item index="0" class="java.lang.String" itemvalue="Python.e30" />
+      <item index="1" class="java.lang.String" itemvalue="Python.e31" />
+      <item index="2" class="java.lang.String" itemvalue="Python.e32" />
+      <item index="3" class="java.lang.String" itemvalue="Python.e33" />
+      <item index="4" class="java.lang.String" itemvalue="Python.e34" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.e33" />
-        <item index="1" class="java.lang.String" itemvalue="Python.e32" />
-        <item index="2" class="java.lang.String" itemvalue="Python.e31" />
-        <item index="3" class="java.lang.String" itemvalue="Python.e30" />
-        <item index="4" class="java.lang.String" itemvalue="Python.e29" />
+        <item index="0" class="java.lang.String" itemvalue="Python.e34" />
+        <item index="1" class="java.lang.String" itemvalue="Python.e33" />
+        <item index="2" class="java.lang.String" itemvalue="Python.e32" />
+        <item index="3" class="java.lang.String" itemvalue="Python.e31" />
+        <item index="4" class="java.lang.String" itemvalue="Python.e30" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +349,15 @@
     <entry file="file://$PROJECT_DIR$/e33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding />
         </state>
       </provider>
