@@ -14,7 +14,7 @@ def factorial(n):
         return res
 
 total = 0
-for digit in str(factorial(100)):
+for digit in str(factorial(999)):
     total += int(digit)
 
 print(total)
