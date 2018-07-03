@@ -1,5 +1,5 @@
 def is_prime(n):
-    if n== 0 or n == 1:
+    if n < 2:
         return False
     if n == 2:
         return True
@@ -19,16 +19,22 @@ stop = False
 
 while not stop:
     if is_prime(i):
+        i+=2
         continue
-    j = 2
-    sq_term = 2 * j**2
-    while sq_term <= i-2:
-        sq_term = 2 * j**2
-        if not is_prime(i - sq_term):
-            print(i)
-            stop = True
+    j = 1
 
-        j +=1
-    print(i)
-    i += 2
+    sq_term = 2 * j **2
+
+    while sq_term <= i:
+
+        sq_term = 2 * j ** 2
+        if is_prime(i-sq_term):
+            break
+
+        j+=1
+    if sq_term >= i:
+        print('i: ', i)
+        stop = True
+    i = i+2
+
 
