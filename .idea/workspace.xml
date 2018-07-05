@@ -19,7 +19,7 @@
       <file leaf-file-name="e25.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/e25.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="102">
               <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
@@ -46,11 +46,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e43.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e43.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/e43.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e44.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e44.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e45.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/e45.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -101,6 +121,8 @@
         <option value="$PROJECT_DIR$/e41.py" />
         <option value="$PROJECT_DIR$/testbreak.py" />
         <option value="$PROJECT_DIR$/e43.py" />
+        <option value="$PROJECT_DIR$/e44.py" />
+        <option value="$PROJECT_DIR$/e45.py" />
       </list>
     </option>
   </component>
@@ -124,23 +146,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Euler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Euler" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Euler" type="cbb8eebc:String" user="Euler" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Euler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.e43">
+  <component name="RunManager" selected="Python.e45">
     <configuration name="e41" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +224,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="e46" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="e44" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -214,13 +236,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e46.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e44.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="e47" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="e45" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -232,7 +254,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e47.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e45.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,19 +279,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.e47" />
-      <item index="1" class="java.lang.String" itemvalue="Python.e46" />
-      <item index="2" class="java.lang.String" itemvalue="Python.testbreak" />
-      <item index="3" class="java.lang.String" itemvalue="Python.e41" />
-      <item index="4" class="java.lang.String" itemvalue="Python.e43" />
+      <item index="0" class="java.lang.String" itemvalue="Python.testbreak" />
+      <item index="1" class="java.lang.String" itemvalue="Python.e41" />
+      <item index="2" class="java.lang.String" itemvalue="Python.e43" />
+      <item index="3" class="java.lang.String" itemvalue="Python.e44" />
+      <item index="4" class="java.lang.String" itemvalue="Python.e45" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.e43" />
-        <item index="1" class="java.lang.String" itemvalue="Python.e41" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testbreak" />
-        <item index="3" class="java.lang.String" itemvalue="Python.e46" />
-        <item index="4" class="java.lang.String" itemvalue="Python.e47" />
+        <item index="0" class="java.lang.String" itemvalue="Python.e45" />
+        <item index="1" class="java.lang.String" itemvalue="Python.e44" />
+        <item index="2" class="java.lang.String" itemvalue="Python.e43" />
+        <item index="3" class="java.lang.String" itemvalue="Python.e41" />
+        <item index="4" class="java.lang.String" itemvalue="Python.testbreak" />
       </list>
     </recent_temporary>
   </component>
@@ -291,8 +313,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -319,20 +342,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/e36.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/e37.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/e20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -595,7 +604,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/e25.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="102">
           <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
@@ -634,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,18 +662,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testbreak.py">
+    <entry file="file://$PROJECT_DIR$/testbreak.py" />
+    <entry file="file://$PROJECT_DIR$/e43.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e43.py">
+    <entry file="file://$PROJECT_DIR$/e44.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e45.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding />
         </state>
       </provider>
